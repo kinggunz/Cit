@@ -1,0 +1,10 @@
+<resources>
+    <color name="bg">#0F1020</color>
+    <color name="surface">#1B1C33</color>
+    <color name="primary">#6C5CE7</color>
+    <color name="accent">#00D1B2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dim">#A0A3BD</color>
+    <color name="bubble_bot">#25274A</color>
+    <color name="ic_bg">#6C5CE7</color>
+</resources>
